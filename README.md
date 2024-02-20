@@ -1,3 +1,3 @@
 # Capstone
 
-Working on a college basketball prediction model.
+College basketball prediction model.
